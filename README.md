@@ -1,7 +1,9 @@
 # ar-worlds
 ar tracking examples using javascript and HTML built off [AR.js](https://ar-js-org.github.io/AR.js-Docs/), [A-frame.io](https://aframe.io/), [Three.js](https://threejs.org/).
 
-source: [https://github.com/areaofeffect/hello-world-AR](https://github.com/areaofeffect/hello-world-AR)
+* source: [https://github.com/areaofeffect/hello-world-AR](https://github.com/areaofeffect/hello-world-AR)
+
+* github pages:[https://areaofeffect.github.io/hello-world-AR/](https://areaofeffect.github.io/hello-world-AR/)
 
 ## marker based
 
