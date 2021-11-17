@@ -9,23 +9,23 @@ ar tracking examples using javascript and HTML built off [AR.js](https://ar-js-o
 
 display AR content on top of tracking markers.
 
-* [basic](https://brunokruse.github.io/ar-worlds/marker-based/basic)
-* [button](https://brunokruse.github.io/ar-worlds/marker-based/button.html)
-* [multiple markers](https://brunokruse.github.io/ar-worlds/marker-based/multiple-independent-marker.html)
+* [basic](https://areaofeffect.github.io/ar-worlds/marker-based/basic)
+* [button](https://areaofeffect.github.io/ar-worlds/marker-based/button.html)
+* [multiple markers](https://areaofeffect.github.io/ar-worlds/marker-based/multiple-independent-marker.html)
 
 ## location based
 
 display AR content based on geographic location.
 
-* [location based](https://brunokruse.github.io/ar-worlds/location-based)
+* [location based](https://areaofeffect.github.io/ar-worlds/location-based)
 
 ## image tracking
 
 advanced: look for and track a specific nft image or photo. display ar content over matched image.
 
-* [nft](https://brunokruse.github.io/ar-worlds/image-tracking/nft)
-* [nft-image](https://brunokruse.github.io/ar-worlds/image-tracking/nft-image)
-* [nft-video](https://brunokruse.github.io/ar-worlds/image-tracking/nft-video)
+* [nft](https://areaofeffect.github.io/ar-worlds/image-tracking/nft)
+* [nft-image](https://areaofeffect.github.io/ar-worlds/image-tracking/nft-image)
+* [nft-video](https://areaofeffect.github.io/ar-worlds/image-tracking/nft-video)
 
 <img src="https://raw.githubusercontent.com/brunokruse/ar-worlds/main/image-tracking/nft-image/image.png?token=AAAMJD5Q7NKC42GG7TA4NN3BTZFOS" width="300" height="300">
 
@@ -35,10 +35,10 @@ experimental: ar that exists in 3D space without the need for markers or trackin
 
 note: [webxr viewer browser](https://apps.apple.com/us/app/webxr-viewer/id1295998056) required for these. 
 
-* [webxr_ar_cones](https://brunokruse.github.io/ar-worlds/webxr/webxr_ar_cones.html)
-* [webxr_ar_hittest](https://brunokruse.github.io/ar-worlds/webxr/webxr_ar_hittest.html)
-* [webxr_ar_lighting](https://brunokruse.github.io/ar-worlds/webxr/webxr_ar_lighting.html)
-* [webxr_ar_paint](https://brunokruse.github.io/ar-worlds/webxr/webxr_ar_paint.html)
+* [webxr_ar_cones](https://areaofeffect.github.io/ar-worlds/webxr/webxr_ar_cones.html)
+* [webxr_ar_hittest](https://areaofeffect.github.io/ar-worlds/webxr/webxr_ar_hittest.html)
+* [webxr_ar_lighting](https://areaofeffect.github.io/ar-worlds/webxr/webxr_ar_lighting.html)
+* [webxr_ar_paint](https://areaofeffect.github.io/ar-worlds/webxr/webxr_ar_paint.html)
 
 
 ## gltf models
