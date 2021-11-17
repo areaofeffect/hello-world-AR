@@ -27,7 +27,7 @@ advanced: look for and track a specific nft image or photo. display ar content o
 * [nft-image](https://areaofeffect.github.io/hello-world-AR/image-tracking/nft-image)
 * [nft-video](https://areaofeffect.github.io/hello-world-AR/image-tracking/nft-video)
 
-<img src="https://raw.githubusercontent.com/brunokruse/hello-world-AR/main/image-tracking/nft-image/image.png?token=AAAMJD5Q7NKC42GG7TA4NN3BTZFOS" width="300" height="300">
+<img src="https://raw.githubusercontent.com/brunokruse/ar-worlds/main/image-tracking/nft-image/image.png?token=AAAMJD5Q7NKC42GG7TA4NN3BTZFOS" width="300" height="300">
 
 ## webxr
 
