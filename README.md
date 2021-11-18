@@ -17,7 +17,7 @@ display AR content on top of tracking markers.
 
 display AR content based on geographic location.
 
-* [location based](https://areaofeffect.github.io/hello-world-AR/location-based)
+* [location based](https://areaofeffect.github.io/hello-world-AR/location-based/show-arbitrary-distant-places)
 
 ## image tracking
 
